@@ -30,7 +30,6 @@ torque, desgaste de herramienta y una etiqueta de falla de máquina.
 
 ## 🎥 Video final
 
-📺 [Ver el video]()
 
 ## 🚀 Cómo ejecutar
 
